@@ -1,0 +1,36 @@
+https://www.origamid.com/projetos/css-grid-layout-guia-completo/
+
+https://www.origamid.com/projetos/css-grid-layout-guia-completo/
+
+
+-- FLEX  Container -- :
+
+
+display:flex -  ativa
+
+flex-wrap: wrap - autoriza a quebra de linha
+
+flex-direction: row | column | reverse-row etc;
+
+flex-flw: row wrap; - é um atalho para usar o direction e wrap;
+order: 1 - define a ordem mostrada
+
+justify-content: flex-start, flex-end, space-between etc;
+
+align-items:  center; |flex-end | flex-start |    ;
+
+align-content: precisa do wrap.  precisa ter espaço pra funcionar. um gap por ex;
+tamanho do container maior.
+
+---Flex-ITEM ----
+
+flex-grow: 1 - ocupar o espaço máximo 
+flex-basis: tipo o max-width
+flex:shrink : Define a  capacidade de redução  de tamanho do item	
+0 . 1 
+
+flex: atalho 
+grow  shrink basis
+
+
+
