@@ -1,2 +1,3 @@
 # origamid-Cursos
- Projetos feitos  no curso da Origamid
+ Projetos que fiz nos  cursos da Origamid
+ https://www.origamid.com
